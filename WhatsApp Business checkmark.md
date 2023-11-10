@@ -9,3 +9,8 @@ Business Account (OBA)**.
 
 WhatsApp provides three levels of Business Accounts:  
 
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
