@@ -23,5 +23,5 @@ The roles available are **Member**, **Admin**, and **Super Admin**.
 
 Once you've completed the steps, the new members will be added to the member  list.  
 
-**Note**: The **Organization roles** and **Team roles** are **irrelevant**. Organization Admin can be the Team  
+**Note:** The **Organization roles** and **Team roles** are **irrelevant**. Organization Admin can be the Team  
 Representative, also the Organization Member can be the Team admin.
