@@ -15,7 +15,7 @@ To invite new members to your organization, please follow these simple steps: (A
 
 The roles available are **Member**, **Admin**, and **Super Admin**.
 
-1.  **Member** \- A Member can access the "**Conversations**", "**Contact**", and "**My Teams**" pages.
+1.  **Member** \- A Member can access the "**Conversations**", "**Contact**", and "**My Teams**" pages.    
 2.  **Admin** \- An admin has **full access to all pages** and can add other admins/members, deactivate  
     members, connect to channels, set up workflows and other settings.  
 3.  **Super Admin** \- A Super Admin is essentially the first point of organization members, this role  
