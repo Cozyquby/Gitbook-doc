@@ -21,8 +21,9 @@
   - **Message Templates** **-** To edit/add the message templates for quick curated responses.  
     Also for Whatsapp template use.  More features coming soon.
 - **Notifications** **-** New incoming message (new customer). For grab mode team, only the fastest  
-  team member joining the conversation can join the conversation
+  team member joining the conversation can join the conversation  
 
+  
 
 **Conversations Status:**
 
@@ -31,8 +32,8 @@
 - **Soon to be** **-** Default Soon to be Overdue time is 3 mins
 - **Rep Needed** **-** A new unserved conversation
 - **Pending** **-** Waiting for team member to reply (Team member joined)
-- **Closed** **-** Inactive conversation for more than 24hours.  Will reopen automatically when
-  reengaged. (Auto close conversation for last message sent by team members, others can be
+- **Closed** **-** Inactive conversation for more than 24hours.  Will reopen automatically when  
+  reengaged. (Auto close conversation for last message sent by team members, others can be  
   closed manually)
 
 **Workflows tabs:**
