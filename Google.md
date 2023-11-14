@@ -9,6 +9,28 @@ configured, you can use your credentials to authenticate the following nodes:
 
 ## Google compatible nodes  
 
+| Node                      | OAuth | Service Account |
+|:--------------------------|-------|-----------------|
+| Gmail                     | Yes   | Yes             |
+| Google Analytics          | Yes   | No              |
+| Google BigQuery           | Yes   | No              |
+| Google Books              | Yes   | Yes             |
+| Google Calendar           | Yes   | No              |
+| Google Chat               | No    | Yes             |
+| Google Cloud Firestore    | Yes   | No              |
+| Google Cloud Natural Language | Yes | No           |
+| Google Cloud Runtime Database | Yes | No           |
+| Google Contacts           | Yes   | No              |
+| Google Docs               | Yes   | Yes             |
+| Google Drive              | Yes   | Yes             |
+| Google Perspective        | Yes   | No              |
+| Google Sheets             | Yes   | Yes             |
+| Google Slides             | Yes   | Yes             |
+| Google Tasks              | Yes   | No              |
+| Google Translate          | Yes   | Yes             |
+| Google Vertex AI          | No    | [TBD]           |  
+
+
 ## Account integration using OAuth  
 
 To begin, you will need:  
